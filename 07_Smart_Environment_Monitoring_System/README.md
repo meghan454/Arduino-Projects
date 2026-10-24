@@ -78,6 +78,8 @@ Completed and tested as a hands-on embedded systems project.
 
 ### Working Demonstration
 
-[▶️ **Watch the Smart Environment Monitoring System Demo Video**](WhatsAppVideo2026-10-02at12.10.42AM-ezgif.com-video-compressor.mp4)
+### Working Demonstration
 
-The demonstration shows the ESP32 reading temperature and humidity from the DHT22 sensor, displaying the readings on the OLED, and activating the buzzer when the configured thresholds are exceeded.
+[▶️ Watch the Smart Environment Monitoring System Demo](https://github.com/meghan454/Arduino-Projects/raw/refs/heads/main/07_Smart_Environment_Monitoring_System/WhatsAppVideo2026-10-02at12.10.42AM-ezgif.com-video-compressor.mp4)
+
+The video demonstrates temperature and humidity monitoring using ESP32 and DHT22, OLED display output, and buzzer alerts when the configured limits are exceeded.
