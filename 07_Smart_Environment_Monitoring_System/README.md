@@ -68,3 +68,16 @@ Completed and tested as a hands-on embedded systems project.
 - Send readings to an IoT dashboard using Wi-Fi.
 - Add adjustable alert thresholds.
 - Display historical readings and trends.
+
+
+## Project Demo
+
+### Hardware Setup
+
+![Smart Environment Monitoring System](WhatsApp%20Image%202026-10-02%20at%2012.10.42%20AM.jpeg)
+
+### Working Demonstration
+
+[▶️ **Watch the Smart Environment Monitoring System Demo Video**](WhatsAppVideo2026-10-02at12.10.42AM-ezgif.com-video-compressor.mp4)
+
+The demonstration shows the ESP32 reading temperature and humidity from the DHT22 sensor, displaying the readings on the OLED, and activating the buzzer when the configured thresholds are exceeded.
