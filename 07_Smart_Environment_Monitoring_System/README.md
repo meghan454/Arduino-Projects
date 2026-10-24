@@ -74,7 +74,7 @@ Completed and tested as a hands-on embedded systems project.
 
 ### Hardware Setup
 
-![Smart Environment Monitoring System](WhatsApp%20Image%202026-10-02%20at%2012.10.42%20AM.jpeg)
+![Smart Environment Monitoring System](./WhatsApp%20Image%202026-10-02%20at%2012.10.42%20AM.jpeg)
 
 ### Working Demonstration
 
