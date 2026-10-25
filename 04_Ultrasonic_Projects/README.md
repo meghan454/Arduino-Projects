@@ -2,6 +2,15 @@
 
 This folder contains two projects using the HC-SR04 ultrasonic sensor to detect objects and trigger different outputs.
 
+## Project Demonstration
+
+This project includes two Arduino experiments demonstrating distance measurement and sensor-based automation.
+
+1. **Ultrasonic Distance Detection with LED and Buzzer** — Measures the distance to nearby objects and triggers alerts when an object comes within a set range.
+2. **Ultrasonic Sensor-Based Servo Barrier** — Uses distance detection to control a servo motor and demonstrate an automatic barrier.
+
+**Video Demonstration:** [Watch the Ultrasonic Sensor Experiments on LinkedIn](https://lnkd.in/p/gtmazeNF)
+
 ## 1. Ultrasonic Distance Sensor with LED and Buzzer
 
 The HC-SR04 measures the distance to an object. The Arduino uses the measured distance to control an LED and buzzer according to the programmed threshold.
