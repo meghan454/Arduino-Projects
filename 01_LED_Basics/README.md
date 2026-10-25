@@ -2,6 +2,12 @@
 
 This folder contains three beginner-friendly Arduino projects exploring digital outputs, push-button inputs, and buzzer control.
 
+## Project Demonstration
+
+Watch the LED experiments in action on LinkedIn:
+
+[View LED Experiments Video on LinkedIn](https://lnkd.in/p/gASenYEs)
+
 ## 1. External LED Blink
 
 An external LED is connected to an Arduino digital output pin and programmed to turn ON and OFF repeatedly.
