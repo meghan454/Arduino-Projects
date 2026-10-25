@@ -1,14 +1,32 @@
-# Potentiometer Controlled LED
+# Potentiometer-Controlled LED Brightness
 
-An Arduino experiment demonstrating analog input and PWM-based control of LED brightness.
+## Overview
+This Arduino experiment demonstrates how a potentiometer can control the brightness of an LED by varying the analog input voltage.
 
-## Experiment
+## Working Principle
+1. The potentiometer provides a variable voltage to the Arduino analog input.
+2. The Arduino reads the voltage using its ADC.
+3. The analog reading is mapped to a PWM output value.
+4. The PWM signal controls the LED brightness.
 
-- Potentiometer controlled LED brightness
+## Project Photo
 
-## Concepts
+![Potentiometer Controlled LED Brightness](./potentiometer%20controlled%20led%20brightness.jpeg)
 
-- Analog input
-- PWM
-- `analogRead()`
-- `analogWrite()`
+## Source Code
+
+[01_Potentiometer_LED_Brightness.ino](./01_Potentiometer_LED_Brightness.ino)
+
+## Hardware Used
+- Arduino Uno
+- Potentiometer
+- LED
+- Current-limiting resistor
+- Breadboard and jumper wires
+
+## Concepts Learned
+- Analog input using `analogRead()`
+- PWM output using `analogWrite()`
+- Mapping sensor readings to output values
+- LED brightness control
+
