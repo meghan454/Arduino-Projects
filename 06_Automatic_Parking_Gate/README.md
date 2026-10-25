@@ -6,6 +6,19 @@ An Arduino-based automatic parking gate system that detects an approaching vehic
 
 This project demonstrates how sensors and actuators can be combined to build a simple automated parking access system.
 
+## Project Demonstration
+
+An Arduino-based automatic parking gate prototype using an ultrasonic sensor for object detection and a servo motor to operate the model barrier.
+
+**Video Demonstration:** [Watch the Automatic Parking Gate on LinkedIn](https://lnkd.in/p/gYMXkEQp)
+
+## Key Concepts Demonstrated
+
+- Ultrasonic distance measurement
+- Threshold-based object detection
+- Servo motor control
+- Sensor-based automation using Arduino Uno
+
 ## Features
 
 - Automatic object detection using an ultrasonic sensor
