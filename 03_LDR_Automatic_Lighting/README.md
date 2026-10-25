@@ -3,6 +3,15 @@
 ## Overview
 This folder contains two Arduino experiments using a Light Dependent Resistor (LDR) to respond to changes in ambient light.
 
+## Project Demonstration
+
+This project includes two Arduino experiments demonstrating light sensing and automatic responses.
+
+1. **LDR-Based Automatic Night Lamp** — Automatically controls an LED based on ambient light levels.
+2. **LDR-Based Light Detection with Buzzer** — Uses light-level changes to trigger an audible alert.
+
+**Video demonstration:** [Watch the LDR experiments on LinkedIn](https://lnkd.in/p/gGedxQHH)
+
 ## 1. LDR Automatic Night Lamp
 
 An LDR senses the surrounding light level. The Arduino uses the sensor reading to control an LED automatically, demonstrating a simple automatic lighting system.
