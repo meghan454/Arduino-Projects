@@ -3,6 +3,12 @@
 ## Overview
 This folder contains six Arduino experiments using an RGB LED to understand color generation, brightness control, and potentiometer-based input.
 
+## Project Demonstration
+
+Watch the RGB LED experiments, along with the potentiometer-controlled LED brightness experiment, in action on LinkedIn.
+
+[Watch the Combined LED Experiments Video](https://www.linkedin.com/posts/meghan-d-b87133337_arduino-electronics-rgbled-activity-7520109007890649088-b1Hr)
+
 ## Experiments
 
 | No. | Experiment | Description |
